@@ -1,0 +1,7 @@
+name: 'Translations.com Global link translator'
+description: 'Translations.com Global link service plugin for TMGMT. Sign up at <a href="http://translations.com/">translations.com</a>!'
+package: 'Translation Management'
+core: 8.x
+dependencies:
+  - tmgmt
+type: module
